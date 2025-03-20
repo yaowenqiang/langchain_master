@@ -44,7 +44,8 @@ free deploy flowise websites
 > https://flowiseai-railway-production-458f.up.railway.app/
 
 
-
+> pip install langflow
+> python -m langflow
 
 
 
