@@ -47,7 +47,9 @@ free deploy flowise websites
 > pip install langflow
 > python -m langflow
 
+> https://flowgpt.com/
 
-
+https://zapier.com/blog/how-does-chatgpt-work/
+https://www.twilio.com/en-us/blog/ultimate-guide-openai-gpt-3-language-model
 
 
